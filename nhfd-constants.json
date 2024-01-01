@@ -1,0 +1,111 @@
+{
+  "bptColumn": 49,
+  "rehabColumn": 40,
+  "replacements": [
+    {
+      "text": "Fracture type is missing",
+      "replacement": "Fracture?",
+      "colour": "silver"
+    },
+    {
+      "text": "Operation performed is missing",
+      "replacement": "Operation?",
+      "colour": "silver"
+    },
+    {
+      "text": "Admission or surgery date/time missing",
+      "replacement": "Date?",
+      "colour": "silver"
+    },
+    {
+      "text": "Operation status unknown - BPT does not apply",
+      "replacement": "Operation?",
+      "colour": "silver"
+    },
+    {
+      "text": "Pre op AMTS is missing",
+      "replacement": "AMTS",
+      "colour": "orange"
+    },
+    {
+      "text": "Best practice achieved",
+      "replacement": "BPT achieved",
+      "colour": "Green"
+    },
+    {
+      "text": "Nutrition risk assessment is missing",
+      "replacement": "MUST",
+      "colour": "orange"
+    },
+    {
+      "text": "Nutrition risk assessment not done",
+      "replacement": "MUST",
+      "colour": "orange"
+    },
+    {
+      "text": "Specialist falls assessment does not qualify for BPT",
+      "replacement": "Falls",
+      "colour": "orange"
+    },
+    {
+      "text": "Delirium assessment is missing",
+      "replacement": "4AT",
+      "colour": "orange"
+    },
+    {
+      "text": "Time to surgery is over 36 hours",
+      "replacement": "36h",
+      "colour": "red"
+    },
+    {
+      "text": "Assessed by a physiotherapist not done",
+      "replacement": "Physio > 1d",
+      "colour": "red"
+    },
+    {
+      "text": "Time to Geriatrician assessment is over 72 hours",
+      "replacement": "Geri > 72h",
+      "colour": "red"
+    },
+    {
+      "text": "Geriatrician assessment not done",
+      "replacement": "No Geri",
+      "colour": "red"
+    },
+    {
+      "text": "Unknown Geriatrician grade does not qualify for BPT",
+      "replacement": "Geri grade",
+      "colour": "orange"
+    },
+    {
+      "text": "No geriatrician assessment",
+      "replacement": "Geri",
+      "colour": "LightBlue"
+    },
+    {
+      "text": "No geriatrcian assessment",
+      "replacement": "Geri",
+      "colour": "LightBlue"
+    },
+    {
+      "text": "Physiotherapist assessed not done",
+      "replacement": "Physio",
+      "colour": "LightBlue"
+    },
+    {
+      "text": "Discharge bone protection medication does not qualify for BPT",
+      "replacement": "BPM",
+      "colour": "LightBlue"
+    },
+    {
+      "text": "Peri-prosthetic femoral fracture fracture - BPT does not apply",
+      "replacement": "Peri-prosthetic",
+      "colour": "gray"
+    },
+    {
+      "text": "Best practice does not apply Overseas patient - BPT does not apply",
+      "replacement": "Overseas",
+      "colour": "gray"
+    }
+  ]
+}
