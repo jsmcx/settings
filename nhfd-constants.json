@@ -1,7 +1,7 @@
 {
   "baseUrl": "https://www.crownaudit.org/FFFAP/nhfd.nsf/",
   "bptColumn": 49,
-  "rehabColumn": 40,
+  "rehabColumn": 0,
   "replacements": [
     {
       "text": "Fracture type is missing",
@@ -81,12 +81,12 @@
     {
       "text": "No geriatrician assessment",
       "replacement": "Geri",
-      "colour": "LightBlue"
+      "colour": "orange"
     },
     {
       "text": "No geriatrcian assessment",
       "replacement": "Geri",
-      "colour": "LightBlue"
+      "colour": "orange"
     },
     {
       "text": "Physiotherapist assessed not done",
