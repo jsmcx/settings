@@ -91,12 +91,12 @@
     {
       "text": "Physiotherapist assessed not done",
       "replacement": "Physio",
-      "colour": "LightBlue"
+      "colour": "orange"
     },
     {
       "text": "Discharge bone protection medication does not qualify for BPT",
       "replacement": "BPM",
-      "colour": "LightBlue"
+      "colour": "purple"
     },
     {
       "text": "Peri-prosthetic femoral fracture fracture - BPT does not apply",
