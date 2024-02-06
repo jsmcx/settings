@@ -4,6 +4,11 @@
   "rehabColumn": 0,
   "replacements": [
     {
+      "text": "Pre op 4AT/AMTS not done",
+      "replacement": "4AT/AMTS",
+      "colour": "red"
+    },
+    {
       "text": "Fracture type is missing",
       "replacement": "Fracture?",
       "colour": "silver"
