@@ -9,6 +9,11 @@
       "colour": "red"
     },
     {
+      "text": "Pre op 4AT/AMTS assessment missing",
+      "replacement": "Pre 4AT",
+      "colour": "red"
+    },
+    {
       "text": "Fracture type is missing",
       "replacement": "Fracture?",
       "colour": "silver"
