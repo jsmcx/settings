@@ -117,6 +117,11 @@
       "text": "Best practice does not apply Overseas patient - BPT does not apply",
       "replacement": "Overseas",
       "colour": "gray"
+    },
+    {
+      "text": "No operation performed - BPT does not apply",
+      "replacement": "Non-op",
+      "colour": "gray"
     }
   ]
 }
